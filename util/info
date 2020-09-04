@@ -1,0 +1,20 @@
+merchant_id                      | IISC_BGLR
+gateway_transaction_reference_no | IG0APRBFT4
+gateway_bank_reference_no        | 
+gateway_bank_id                  | 
+gateway_payment_status_id        | 0300
+application_id                   | B101H30
+gateway_payment_category         | gate
+transaction_timestamp            | 2015-09-01 08:14:22.309792
+fee_amount                       | 1500.00
+is_payment_received              | t
+payment_mode                     | Online
+challan_bank                     | 
+challan_no                       | 
+gateway_transaction_date         | 2015-09-01
+gateway_security_id              | SBI-NET-BANKING
+payment_id                       | 10000714
+fee_commission                   | 
+jrnlno_dpcode                    | 
+bank_txn_date                    | 
+
